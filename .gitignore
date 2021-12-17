@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/modules.xml
+
+.idea
+
+.gitignore
+
+*.xml
+
+
+filescopydemo/.idea
+filescopydemo/out
+
+filesdemo/.idea
+filesdemo/out
+
+serialDeserial/.idea
+serialDeserial/out
